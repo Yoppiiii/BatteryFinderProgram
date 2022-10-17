@@ -1,4 +1,3 @@
-// ここから書いてください。
 const battery =
     [{
         "batteryName": "WKL-78",
