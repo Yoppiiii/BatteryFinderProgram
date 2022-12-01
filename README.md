@@ -4,4 +4,4 @@ RecursionのProject2「Vending Machine」で作成したアプリです。<br>
 総消費電力に基づいて、カメラセットと互換性のあるすべての電池を表示し、満充電時にどれほど電池が持続するか表示します。<br>
 
 ## URL
-https://yoppiiiii.github.io/project2_BatteryFinderProgram/
+https://yoppiiii.github.io/BatteryFinderProgram/
